@@ -6,5 +6,4 @@ Steps to Run:
 3-npm start
 3-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-
-![](tajanews/src/Tajanews.png?raw=true)
+![](/tajanews/src/Tajanews.png?raw=true "Page snapshot")
